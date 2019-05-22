@@ -1,0 +1,14 @@
+.wrap {
+  display: flex;
+}
+
+.menu {
+  width: 200px;
+  height: 100vh;
+  border-right: 1px solid #222;
+}
+
+.content {
+  flex: 1;
+  height: 100vh;
+}
